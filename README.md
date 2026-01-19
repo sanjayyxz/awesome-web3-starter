@@ -1,4 +1,4 @@
-🌐 Awesome Web3 Starter
+🌐 Awesome-Web3-Starter
 
 A beginner-friendly introduction to Web3, Blockchain, and Crypto — explained simply, without heavy technical jargon or coding.
 
